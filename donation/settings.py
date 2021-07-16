@@ -25,7 +25,7 @@ SECRET_KEY = '34k8ak@t(26xmprzezs*w86_@uumb%7%xt^i#qeo-)@6k00r@_'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1','payment-gateway22.herokuapp.com']
+ALLOWED_HOSTS = ['127.0.0.1']
 
 
 # Application definition
